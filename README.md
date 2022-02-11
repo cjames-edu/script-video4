@@ -1,2 +1,2 @@
 # script-video4
-monero video four script reviosions
+monero video four script revisions
